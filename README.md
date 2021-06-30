@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 📌 Project
 -  [User 행동 분석 및 시각화](https://github.com/ssujeong/User_Acquisition-Retention)
-`Acquisition & Retention` `#Python` `#Tableau` 
+`#Python` `#Tableau` 
 -  [DACON 사용자 행동 예측 대회](https://github.com/ssujeong/2020_DACON_CUP)
 `🥉 2020 DACON CUP 3위` `#Python` `#Machine Learning` 
 -  ['바로방' - 서울 전월세 매물 추천](https://github.com/ssujeong/BaroBang_project)
