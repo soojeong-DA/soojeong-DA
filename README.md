@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 `Acquisition & Retention` `#Python` `#Tableau` 
 -  [DACON 사용자 행동 예측 대회](https://github.com/ssujeong/2020_DACON_CUP)
 `🥉 2020 DACON CUP 3위` `#Python` `#Machine Learning` 
--  ['바로방' - 서울시 전월세 매물 추천](https://github.com/ssujeong/BaroBang_project)
+-  ['바로방' - 서울 전월세 매물 추천](https://github.com/ssujeong/BaroBang_project)
 `#Python` `#PostgreSQL` 
 -  [NS Shop+ 홈쇼핑 매출 예측 대회](https://github.com/ssujeong/Big_contest_2020)
 `빅콘테스트` `#Python` `#Machine Learning` 
