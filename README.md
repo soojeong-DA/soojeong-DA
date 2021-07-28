@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 -  ['바로방' - 서울 전월세 매물 추천](https://github.com/ssujeong/BaroBang_project)
 
--  [NS Shop+ 홈쇼핑 매출 예측 대회](https://github.com/ssujeong/Big_contest_2020)
 
 <br> </br>
 ---
