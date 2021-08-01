@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📌 Project
--  [유저 행동 분석 및 Tableau Dashboard](https://github.com/ssujeong/User_Acquisition-Retention)
+-  [유저 행동 분석 및 Tableau Dashboard](https://github.com/ssujeong/ToyProject)
 
 -  [DACON 사용자 행동 예측 대회](https://github.com/ssujeong/2020_DACON_CUP)
 
