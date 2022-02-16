@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -  [2020 DACON CUP Google Analytics🥉](https://github.com/ssujeong/2020_DACON_CUP)
 -  ['바로방' 서울 전월세 매물 추천](https://github.com/ssujeong/BaroBang_project)
 -  [NS Shop+ 홈쇼핑 매출 예측 대회](https://github.com/ssujeong/Big_contest_2020)
-
+<br> </br>
 #### 🌱 learned about
 - Big Data Analyst Training(6 months),  [Tableau Boot Camp 11th](https://github.com/ssujeong/BI/tree/master/Tableau%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A9%2011%E1%84%80%E1%85%B5),  [Text Mining Study](https://github.com/ssujeong/TextMining_Study), Data-driven Dashboard Study
 
