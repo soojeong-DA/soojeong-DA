@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -  [NS Shop+ 홈쇼핑 매출 예측 대회](https://github.com/ssujeong/Big_contest_2020)
 <br> </br>
 #### 🌱 learned about
-- Big Data Analyst Training(6 months), SQL Data Analysis Boot Camp (Advanced), Growth Hacking study for Junior DA, [Tableau Boot Camp 11th](https://github.com/ssujeong/BI/tree/master/Tableau%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A9%2011%E1%84%80%E1%85%B5), Data-driven Dashboard Study
+- Big Data Analyst Training(6 months), SQL Data Analysis Boot Camp (Advanced), Growth Hacking study for Junior DA,          
+[Tableau Boot Camp 11th](https://github.com/ssujeong/BI/tree/master/Tableau%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A9%2011%E1%84%80%E1%85%B5), Data-driven Dashboard Study
 
 <br> </br>
 ---
